@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.levinaos.diak0v
+Version: 1.0
+Section: Themes
+Maintainer: Diak0v <ccoolstarorg@gmail.com>
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.levinaos.diak0v.deb
+Size: 1146636
+MD5sum: 20836D19AE235795C4F5BF67E195D0FA
+Description: A very simple and free theme for iOS 7-12
+Name: LevinaOS
+Author: Diak0v <ccoolstarorg@gmail.com>
+Depiction: https://diak0v.github.io/Reposi3/depictions/com.diak0v.levinaos
